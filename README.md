@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KostiantynO
-- 👀 I’m interested in FrontEnd.
-- 🌱 I’m currently learning HTML/CSS and a little js :)
-- 💞️ I’m looking to collaborate on FrontEnd projects.
+- 👋 Hello, everyone! My name is Kostiantyn Ochenash!
+- 👀 And I’m interested in FullStack.
+- 🌱 I’m currently learning JS  7;)  HTML+CSS main part - DONE.
+- 💞️ I’m looking for work on FullStack projects.
 - 📫 Reach me: ochenashk@gmail.com.
 
 <!---
