@@ -1,4 +1,18 @@
- <h3 align="left">Languages and Tools:</h3>
+### Hello everyone! My name is Kostiantyn👋
+
+👨‍🎓 I am a studying at GoIT.ua to become the **_FullStack Developer_**
+
+🌱 I'm learning **JS** - 5 homeworks left.
+
+🧭 How do you manage your energy⚡, focus📸, and time⏳?
+
+📫 Reach me at: ochenashk@gmail.com
+
+🎯 My mission - to write useful code for people using **HTML**, **CSS**, **JS**, **Node.js**, that
+works 24/7/365.
+
+### My stack:
+
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
