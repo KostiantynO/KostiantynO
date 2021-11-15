@@ -2,7 +2,7 @@
 
 👨‍🎓 I am a studying at GoIT.ua to become the **_FullStack Developer_**
 
-🌱 I'm learning **JS** - 5 homeworks left.
+🌱 I'm learning **JS** - 1 homework left.
 
 🧭 How do you manage your energy⚡, focus📸, and time⏳?
 
