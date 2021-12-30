@@ -1,6 +1,6 @@
 ### Hello everyone! My name is Kostia!
 
-### My Experience: 1 year study at Full Stack Dev Online Courses.
+### My Experience: 9 months study at Full Stack Dev Online Courses.
 
 ### My stack:
 
