@@ -48,6 +48,7 @@ const me = {
 
 const contacts = {
   email: '📫 ochenashk@gmail.com',
+  insta: 'https://www.instagram.com/kostiantyn_man/';
 };
 ```
 
