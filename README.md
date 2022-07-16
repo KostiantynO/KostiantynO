@@ -42,8 +42,7 @@ const me = {
   mission:
     '🎯 Create useful apps with HTML, CSS, JS, Node.js, which works 24/7/365',
   goal: '👨‍🎓 I will become the FullStack Developer',
-  now: '🌱 Conquering React',
-  inside: 'fighting inner dragon 🐲',
+  now: '🌱 Studying Node.js',
 };
 
 const contacts = {
