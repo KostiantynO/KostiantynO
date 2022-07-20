@@ -7,6 +7,8 @@
 
 ### Team projects: 1 React/Node, 1 JS, 1 HTML/CSS.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KostiantynO&theme=dark)](https://git.io/streak-stats)
+
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
   <span align="left">Languages: </span>
   <span align="left">
