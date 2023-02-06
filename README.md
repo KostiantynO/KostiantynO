@@ -5,7 +5,7 @@ Hi there, I'm Kostiantyn 👋
 <p>🔭 I’m currently working on preparing for an interview</p>
 <p>🌱 I’m currently learning Cracking JS</p>
 <p>🤔 I’m looking for help with finding a job as a full-stack developer (front-end heavy)</p>
-<p>📫 How to reach me: ochenashk@gmail.com</p>
+<p>📫 How to reach me: <strong> <a href="mailto:ochenashk@gmail.com">ochenashk@gmail.com</a> </strong> </p>
 <p>⚡ Fun fact: I love to code and I feel empowered when I study new tech</p>
 
 <h3 align="left">My stack:</h3>
@@ -63,11 +63,11 @@ Hi there, I'm Kostiantyn 👋
 
 ### `Work Experience`:
 
-- [Gunkelly](https://wizardly-hugle-3c259c.netlify.app/) [HTML, SCSS, webpack] -
-  made markup `without JS` for WordPress
-- [BrandOn](https://thebrandonapp.com/) [React Native + Firebase Auth]
 - [Your Price Booking](https://www.yourpricebooking.com/) [React, Typescript,
   RTK]
+- [BrandOn](https://thebrandonapp.com/) [React Native + Firebase Auth]
+- [Gunkelly](https://wizardly-hugle-3c259c.netlify.app/) [HTML, SCSS, webpack] -
+  made markup `without JS` for WordPress
 
 ### `Project experience`:
 
