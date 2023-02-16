@@ -63,6 +63,11 @@ Hi there, I'm Kostiantyn 👋
 
 ### `Work Experience`:
 
+- [freelancehunt]
+  <a href="https://freelancehunt.com/freelancer/kostiantyn_ochenash.html?from=shield&r=61MYX" target="_blank">
+  <img src="https://freelancehunt.com/shields/display/id/1332867/type/reviews?style=flat&amp;lang=en&amp;showLogin=1" alt="Freelancehunt — simple and fair freelance" />
+  </a>
+
 - [Your Price Booking](https://www.yourpricebooking.com/) [React, Typescript,
   RTK]
 - [BrandOn](https://thebrandonapp.com/) [React Native + Firebase Auth]
