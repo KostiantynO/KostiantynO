@@ -1,1 +1,3 @@
-Certainly, not a bot ◕‿◕✿, but a dev nerd, I like TS and Next.
+Hello.
+
+My book: https://legacy-of-umah.vercel.app/
