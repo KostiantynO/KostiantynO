@@ -6,4 +6,4 @@ Hewo :3
 
 [PharaOwO](https://pharaoh-snowy.vercel.app/game/)
 
-'He is certaїnly not a bot', ◕‿◕✿ em-dash, but I am :D
+"He is certaїnly not a bot", $\color{#ff80ff}{\text{◕‿◕✿}}$ em-dash, but I am :D
